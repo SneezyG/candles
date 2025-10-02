@@ -3,9 +3,9 @@
 A responsive frontend web-app for tracking stock performance.  
 
 ## Features  
-- **Stock Ticker** – Real-time or mock scrolling ticker with price, % change, and green/red indicators.  
-- **Candlestick Chart** – Interactive chart with selectable ranges: 1D, 1W, 1M, 6M, 1Y.  
-- **Portfolio Simulator**  
+- **Stock Ticker** – With price, % change, and green/red indicators.  
+- **Interactive Chart** – With selectable ranges: 1D, 1W, 1M, 6M, 1Y.  
+- **Portfolio Management**  
   - Holdings table (symbol, shares, avg price, current price, P/L).  
   - Pie chart for portfolio allocation.  
   - Line chart for portfolio performance over time.  
