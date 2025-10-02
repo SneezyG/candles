@@ -1,6 +1,6 @@
 # Stock Dashboard  
 
-A responsive web app for tracking stock performance.  
+A responsive frontend web-app for tracking stock performance.  
 
 ## Features  
 - **Stock Ticker** – Real-time or mock scrolling ticker with price, % change, and green/red indicators.  
